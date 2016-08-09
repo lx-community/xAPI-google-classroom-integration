@@ -15,25 +15,25 @@ The project requires a team of information systems professionals to offer techni
 
 ### Google Classroom
 
-Website: https://classroom.google.com
-Product: https://www.google.com/edu/products/productivity-tools/classroom/
-About: https://support.google.com/edu/classroom/answer/6020279?hl=en
-Help: https://support.google.com/edu/classroom/?hl=en#topic=6020277
-API Reference: https://support.google.com/edu/classroom/?hl=en#topic=6020277
+* Website: https://classroom.google.com
+* Product: https://www.google.com/edu/products/productivity-tools/classroom/
+* About: https://support.google.com/edu/classroom/answer/6020279?hl=en
+* Help: https://support.google.com/edu/classroom/?hl=en#topic=6020277
+* API Reference: https://support.google.com/edu/classroom/?hl=en#topic=6020277
 
 ### xApi
 
-Website: https://www.adlnet.gov/adl-research/performance-tracking-analysis/experience-api/
-Specifications: https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md
-Scoring model: https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md#415-result
-Activity profile API: https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md#actprofapi
-Javascript library: https://github.com/adlnet/xAPIWrapper
+* Website: https://www.adlnet.gov/adl-research/performance-tracking-analysis/experience-api/
+* Specifications: https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md
+* Scoring model: https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md#415-result
+* Activity profile API: https://github.com/adlnet/xAPI-Spec/blob/master/xAPI.md#actprofapi
+* Javascript library: https://github.com/adlnet/xAPIWrapper
 
 ### lxHive:
 
-Repository: https://github.com/Brightcookie/lxHive
-Wiki: https://github.com/Brightcookie/lxHive/wiki
-Website: http://www.lxhive.com/
+* Repository: https://github.com/Brightcookie/lxHive
+* Wiki: https://github.com/Brightcookie/lxHive/wiki
+* Website: http://www.lxhive.com/
 
 ## Broad Timelines
 
